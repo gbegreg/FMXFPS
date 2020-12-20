@@ -1,6 +1,8 @@
 # FMXFPS
 
-This project is a demonstration of using Delphi, Firemonkey, and my GBE3D component suite (https://github.com/gbegreg/GBE3D).
+This project is a demonstration of using Delphi and Firemonkey.
+
+You need to install my GBE3D components suite (https://github.com/gbegreg/GBE3D) to compile this project.
 
 You will find the executables on:<br>
 http://gbesoft.fr/jeux.php#fmxfps<br>
