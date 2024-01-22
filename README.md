@@ -1,4 +1,9 @@
 # FMXFPS
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Top language](https://img.shields.io/github/languages/top/gbegreg/FMXFPS)
+[![](https://tokei.rs/b1/github/gbegreg/MapReduce?category=code)](https://github.com//gbegreg/FMXFPS)
+[![](https://tokei.rs/b1/github/gbegreg/MapReduce?category=files)](https://github.com//gbegreg/FMXFPS)
+![GitHub last commit](https://img.shields.io/github/last-commit/gbegreg/FMXFPS)
 
 This project is a demonstration of using Delphi and Firemonkey.
 
